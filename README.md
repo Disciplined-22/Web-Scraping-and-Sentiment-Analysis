@@ -1,4 +1,4 @@
-Sentiment Analysis: A Data-Driven Approach to Text Mining for SEO and Audience Engagement Optimization
+# Sentiment Analysis: A Data-Driven Approach to Text Mining for SEO and Audience Engagement Optimization
 
 ## Project Description: Unlocking the Power of Blog Content with Advanced Text Analysis
 

@@ -25,11 +25,11 @@ This isn't just about analytics; it's about transformation. It's about taking yo
 # How to use it.
 
 ## Provide the link
-![](https://github.com/Disciplined-22/Web-Scraping-and-Sentiment-Analysis/raw/main/assets/129745308/688b0918-3d83-4307-97b4-63a29d6704fc)
+![Provide the link](https://github.com/Disciplined-22/Web-Scraping-and-Sentiment-Analysis/raw/main/assets/129745308/688b0918-3d83-4307-97b4-63a29d6704fc)
 
 ## Add the necessary div target elements for webscraping
-![](https://github.com/Disciplined-22/Web-Scraping-and-Sentiment-Analysis/raw/main/assets/129745308/5249387e-8eea-46f0-83bc-58071e0d7f16)
+![Add the necessary div target elements for webscraping](https://github.com/Disciplined-22/Web-Scraping-and-Sentiment-Analysis/raw/main/assets/129745308/5249387e-8eea-46f0-83bc-58071e0d7f16)
 
 ## Get the excel sheet
-![](https://github.com/Disciplined-22/Web-Scraping-and-Sentiment-Analysis/raw/main/assets/129745308/3eaef543-b6e6-47b0-a8bb-3420b985cf37)
+![Get the excel sheet](https://github.com/Disciplined-22/Web-Scraping-and-Sentiment-Analysis/raw/main/assets/129745308/3eaef543-b6e6-47b0-a8bb-3420b985cf37)
 

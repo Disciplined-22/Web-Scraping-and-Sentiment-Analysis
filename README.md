@@ -1,4 +1,4 @@
-# Web Scraping and Sentiment Analysis: A Data-Driven Approach to Text Mining for SEO and Audience Engagement Optimization
+![add  the necessary](https://github.com/Disciplined-22/Web-Scraping-and-Sentiment-Analysis/assets/129745308/5ffb8aab-7533-49c2-a302-5cfb5f22e07b)# Web Scraping and Sentiment Analysis: A Data-Driven Approach to Text Mining for SEO and Audience Engagement Optimization
 
 ## Project Description: Unlocking the Power of Blog Content with Advanced Text Analysis
 
@@ -30,9 +30,10 @@ This isn't just about analytics; it's about transformation. It's about taking yo
 
 
 ## Add the necessary div target elements for webscarping
-![Add div target elements](div_target_image_url)
+![](![add  the necessary](https://github.com/Disciplined-22/Web-Scraping-and-Sentiment-Analysis/assets/129745308/5249387e-8eea-46f0-83bc-58071e0d7f16)
 
 ## Get the excel sheet
-![Get the excel sheet](excel_sheet_image_url)
+![](![excel sheet](https://github.com/Disciplined-22/Web-Scraping-and-Sentiment-Analysis/assets/129745308/3eaef543-b6e6-47b0-a8bb-3420b985cf37)
+
 
 

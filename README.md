@@ -1,4 +1,4 @@
-![add  the necessary](https://github.com/Disciplined-22/Web-Scraping-and-Sentiment-Analysis/assets/129745308/5ffb8aab-7533-49c2-a302-5cfb5f22e07b)# Web Scraping and Sentiment Analysis: A Data-Driven Approach to Text Mining for SEO and Audience Engagement Optimization
+Sentiment Analysis: A Data-Driven Approach to Text Mining for SEO and Audience Engagement Optimization
 
 ## Project Description: Unlocking the Power of Blog Content with Advanced Text Analysis
 

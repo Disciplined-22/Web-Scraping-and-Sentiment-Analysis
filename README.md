@@ -31,6 +31,5 @@ This isn't just about analytics; it's about transformation. It's about taking yo
 ![add  the necessary](https://github.com/Disciplined-22/Web-Scraping-and-Sentiment-Analysis/assets/129745308/2c3ba73e-2f28-46f7-b43d-3abfe8cd482b)
 
 ## Get the excel sheet
-![excel sheet](https://github.com/Disciplined-22/Web-Scraping-and-Sentiment-Analysis/assets/129745308/77f0225a-c5a4-45cd-b97b-e14207c31dd3)
-
+![excel sheet (1)](https://github.com/Disciplined-22/Web-Scraping-and-Sentiment-Analysis/assets/129745308/867e1f5b-c3c6-4e95-bd1b-235080900e89)
 

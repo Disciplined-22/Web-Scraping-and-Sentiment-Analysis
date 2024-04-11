@@ -32,5 +32,6 @@ This isn't just about analytics; it's about transformation. It's about taking yo
 
 
 ## Get the excel sheet
-![Uploading excel sheet.jpg…]()
+![excel sheet](https://github.com/Disciplined-22/Web-Scraping-and-Sentiment-Analysis/assets/129745308/77f0225a-c5a4-45cd-b97b-e14207c31dd3)
+
 

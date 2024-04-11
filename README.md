@@ -25,7 +25,9 @@ This isn't just about analytics; it's about transformation. It's about taking yo
 # How to use it.
 
 ## Provide the link
-(https://github.com/Disciplined-22/Web-Scraping-and-Sentiment-Analysis/assets/129745308/688b0918-3d83-4307-97b4-63a29d6704fc)
+## Provide the link
+![](https://github.com/Disciplined-22/Web-Scraping-and-Sentiment-Analysis/assets/129745308/688b0918-3d83-4307-97b4-63a29d6704fc)
+
 
 ## Add the necessary div target elements for webscarping
 ![Add div target elements](div_target_image_url)

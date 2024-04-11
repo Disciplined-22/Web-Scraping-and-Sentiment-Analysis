@@ -28,8 +28,7 @@ This isn't just about analytics; it's about transformation. It's about taking yo
 ![Provide your url link](https://github.com/Disciplined-22/Web-Scraping-and-Sentiment-Analysis/assets/129745308/bc575e29-9e96-472c-9ebc-1187a7aad621)
 
 ## Add the necessary div target elements for webscraping
-![add  the necessary](https://github.com/Disciplined-22/Web-Scraping-and-Sentiment-Analysis/assets/129745308/735030f9-e631-4ce7-bd78-28cf3b82cd94)
-
+![add  the necessary](https://github.com/Disciplined-22/Web-Scraping-and-Sentiment-Analysis/assets/129745308/2c3ba73e-2f28-46f7-b43d-3abfe8cd482b)
 
 ## Get the excel sheet
 ![excel sheet](https://github.com/Disciplined-22/Web-Scraping-and-Sentiment-Analysis/assets/129745308/77f0225a-c5a4-45cd-b97b-e14207c31dd3)

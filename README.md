@@ -23,4 +23,13 @@ It's not just about clicks and views; it's about understanding the heartbeat of 
 This isn't just about analytics; it's about transformation. It's about taking your blog content and turning it into a force for change, growth, and success. By harnessing the power of human emotion, you'll forge connections that transcend mere transactions, building a brand that resonates with authenticity and purpose.
 
 # How to use it.
+## Provide the link
+add image 
+
+## Add the necessary div target elements for webscarping
+add image 
+
+## Get the excel sheet
+add image 
+
 

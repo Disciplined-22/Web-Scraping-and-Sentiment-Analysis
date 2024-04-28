@@ -32,6 +32,9 @@ This isn't just about analytics; it's about transformation. It's about taking yo
 ## How to use this project
 
 A thorough explanation of how to use it via files/zip download is provided in this [YouTube link](https://youtu.be/3Ogc9uakKQk?si=2dbqW1BJSgGQ_1tJ).
+![](https://github.com/Disciplined-22/Web-Scraping-and-Sentiment-Analysis/assets/129745308/44a0a77c-2c1d-45b9-856f-88ce0722e244)
+
+
 ## For Google Colab, follow the steps below:
 
 

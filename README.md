@@ -32,7 +32,6 @@ This isn't just about analytics; it's about transformation. It's about taking yo
 ## How to Use this project
 
 A thorough explanation of how to use it via file zip download is provided in this [link](https://youtu.be/3Ogc9uakKQk?si=2dbqW1BJSgGQ_1tJ).
-
 ## For Google Colab, follow the steps below:
 
 

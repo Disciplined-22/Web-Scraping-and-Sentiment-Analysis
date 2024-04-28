@@ -23,9 +23,9 @@ It's not just about clicks and views; it's about understanding the heartbeat of 
 This isn't just about analytics; it's about transformation. It's about taking your blog content and turning it into a force for change, growth, and success. By harnessing the power of human emotion, you'll forge connections that transcend mere transactions, building a brand that resonates with authenticity and purpose.
 
 
-# About Key Variables (Information)
+## About Key Variables (Information)
 
-## The below txt file will help you understand the key variables that you get in the Excel sheet.
+### The below txt file will help you understand the key variables that you get in the Excel sheet.
 
 [Understanding Key Sentiment Analysis Variables for SEO and Audience Engagement Optimization](https://docs.google.com/document/d/1JkCxXf6Qdp8JeSuw8GUsE7Yz4nakydmIsbEPQdNcfls/edit?usp=sharing)
 

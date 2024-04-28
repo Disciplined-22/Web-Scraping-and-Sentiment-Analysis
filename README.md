@@ -29,8 +29,12 @@ This isn't just about analytics; it's about transformation. It's about taking yo
 
 [Understanding Key Sentiment Analysis Variables for SEO and Audience Engagement Optimization](https://docs.google.com/document/d/1JkCxXf6Qdp8JeSuw8GUsE7Yz4nakydmIsbEPQdNcfls/edit?usp=sharing)
 
+## How to Use this project
 
-# How to use it.
+A thorough explanation of how to use it via file zip download is provided in this [link](https://youtu.be/3Ogc9uakKQk?si=2dbqW1BJSgGQ_1tJ).
+
+## For Google Colab, follow the steps below:
+
 
 ## Provide the link
 ![Provide your url link](https://github.com/Disciplined-22/Web-Scraping-and-Sentiment-Analysis/assets/129745308/bc575e29-9e96-472c-9ebc-1187a7aad621)

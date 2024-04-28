@@ -25,7 +25,7 @@ This isn't just about analytics; it's about transformation. It's about taking yo
 
 # ABOUT KEY VARIABLES (INFORMATION)
 
-## The below txt file will help you understand the key elements
+## The below txt file will help you understand the key variables that you get in the Excel sheet.
 
 [Understanding Key Sentiment Analysis Variables for SEO and Audience Engagement Optimization](https://docs.google.com/document/d/1JkCxXf6Qdp8JeSuw8GUsE7Yz4nakydmIsbEPQdNcfls/edit?usp=sharing)
 

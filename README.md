@@ -41,5 +41,5 @@ This isn't just about analytics; it's about transformation. It's about taking yo
 ## Get the excel sheet
 ![excel sheet (1)](https://github.com/Disciplined-22/Web-Scraping-and-Sentiment-Analysis/assets/129745308/867e1f5b-c3c6-4e95-bd1b-235080900e89)
 
-The Excel sheet will be like the. Output Data Structure.xlsx which is present in the above files and this excel sheet will give you a good overview of the sentiment analysis of the web-scraped data of the specified URL webpage.
+The Excel sheet will be like the. Sentiment_analysis.xlsx which is present in the above files and this excel sheet will give you a good overview of the sentiment analysis of the web-scraped data of the specified URL webpage.
 
